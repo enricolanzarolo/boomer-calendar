@@ -1,0 +1,11 @@
+-keep class com.dexterous.** { *; }
+-keep class * implements com.dexterous.** { *; }
+-keepclassmembers class com.dexterous.** { *; }
+-keep class androidx.** { *; }
+-keepattributes *Annotation*
+-keepattributes Signature
+-keepattributes Exceptions
+-keepattributes EnclosingMethod
+-keepattributes InnerClasses
+-keepattributes RuntimeVisibleAnnotations
+-keepattributes RuntimeVisibleParameterAnnotations

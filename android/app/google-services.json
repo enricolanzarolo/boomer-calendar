@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "40306326976",
+    "project_id": "boomercalendar",
+    "storage_bucket": "boomercalendar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40306326976:android:boomercalendar",
+        "android_client_info": {
+          "package_name": "com.example.mamma_calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40306326976-e2gcmnrlq59tnfv5rencku1fej2g1qhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mamma_calendar",
+            "certificate_hash": "7cdf784677bf691341ca49e17af78fe54cd33a37"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
