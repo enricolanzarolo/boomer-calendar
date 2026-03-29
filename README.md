@@ -1,4 +1,4 @@
-# 📅 BoomerCalendar
+# 📅 BoomerCalendar 2026
 
 Un'app calendario Android completa, offline-first, pensata per essere semplice e intuitiva per utenti non tecnologici. Nessun abbonamento, nessuna pubblicità, nessun account obbligatorio.
 
