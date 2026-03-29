@@ -1,4 +1,0 @@
-#Sun Mar 29 00:22:57 CET 2026
-base.0=C\:\\Users\\default.user\\Desktop\\progetto_completo\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
